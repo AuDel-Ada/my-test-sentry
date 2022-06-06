@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://sentry.io/organizations/palo-it-px/projects/"
           target="_blank"
           rel="noopener noreferrer"
         >
