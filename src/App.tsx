@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          This one will be use for Sentry !
         </a>
       </header>
     </div>
