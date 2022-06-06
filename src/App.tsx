@@ -18,6 +18,7 @@ function App() {
         >
           This one will be use for Sentry !
         </a>
+        <button onClick={methodDoesNotExist}>Hello Sentry !</button>
       </header>
     </div>
   );
